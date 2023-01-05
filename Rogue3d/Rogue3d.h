@@ -1,0 +1,14 @@
+#ifndef Rogue3d_Rogue3d_H
+#define Rogue3d_Rogue3d_H
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+#include <fstream>
+#include <string>
+#include <iostream>
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
+#include "stb_image.h"
+#include "GLObjects.h"
+#include "Core.h"
+#endif Rogue3d_Rogue3d_H

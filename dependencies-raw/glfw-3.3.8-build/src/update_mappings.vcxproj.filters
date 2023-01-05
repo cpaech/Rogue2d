@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\User\Desktop\OpenGL\dependencies-raw\glfw-3.3.8-build\CMakeFiles\c9da4665bde0ad48870e7680d8017fcf\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Users\User\Desktop\OpenGL\dependencies-raw\glfw-3.3.8\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Users\User\Desktop\OpenGL\dependencies-raw\glfw-3.3.8\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\Users\User\Desktop\OpenGL\dependencies-raw\glfw-3.3.8\CMake\GenerateMappings.cmake" />
+    <None Include="D:\Users\User\Desktop\OpenGL\dependencies-raw\glfw-3.3.8-build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3A1A6428-DC0A-3F32-90B1-2625E3BCC540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6AAC1E82-036A-397D-98E3-6A1AC1793AC7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
